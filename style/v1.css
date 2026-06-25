@@ -1,0 +1,18 @@
+body {
+  background-color: #4d1919;
+  color: bisque;
+}
+
+body {
+  background-color: gray;
+  color: white;
+}
+
+p {
+  color: rgb(84, 4, 4);
+  background-color: cadetblue;
+  border: 1px solid blue;
+  border-radius: 10px;
+  box-shadow: 2px 4px gray;
+  padding: 7px;
+}
